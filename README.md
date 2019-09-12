@@ -10,13 +10,13 @@
 
 ### 最新
 
-* [悬浮显示所有的内容](http://www.52javaee.com:8080/articles/2019/09/10/1568120839002.html)
-* [easyUI弹出框，兼容点击红叉触发事件](http://www.52javaee.com:8080/articles/2019/09/10/1568083052297.html)
-* [easyUI新增一行+删除一行+显示/隐藏元素+设置必填](http://www.52javaee.com:8080/articles/2019/08/23/1566573809612.html)
-* [Java数据类型](http://www.52javaee.com:8080/articles/2019/08/23/1566572218385.html)
-* [如何下载安装jenkins](http://www.52javaee.com:8080/articles/2019/08/23/1566571035303.html)
-* [《Java多线程编程核心技术》学习笔记（1）](http://www.52javaee.com:8080/articles/2019/08/19/1566217808198.html)
-* [世界，你好！](http://www.52javaee.com:8080/hello-solo)
+* [悬浮显示所有的内容](http://www.52javaee.com/articles/2019/09/10/1568120839002.html)
+* [easyUI弹出框，兼容点击红叉触发事件](http://www.52javaee.com/articles/2019/09/10/1568083052297.html)
+* [easyUI新增一行+删除一行+显示/隐藏元素+设置必填](http://www.52javaee.com/articles/2019/08/23/1566573809612.html)
+* [Java数据类型](http://www.52javaee.com/articles/2019/08/23/1566572218385.html)
+* [如何下载安装jenkins](http://www.52javaee.com/articles/2019/08/23/1566571035303.html)
+* [《Java多线程编程核心技术》学习笔记（1）](http://www.52javaee.com/articles/2019/08/19/1566217808198.html)
+* [世界，你好！](http://www.52javaee.com/hello-solo)
 
 
 
