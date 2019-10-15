@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring IOC 容器源码分析 - 创建单例 bean 的过程](http://www.52javaee.com/articles/2019/10/14/1571038853863.html)
 * [Spring IOC 容器源码分析 - 获取单例 bean](http://www.52javaee.com/articles/2019/10/13/1570971970937.html)
 * [Spring IOC 容器源码分析系列文章导读](http://www.52javaee.com/articles/2019/10/11/1570805706621.html)
 * [Git基本概念与核心命令掌握](http://www.52javaee.com/articles/2019/10/10/1570639834010.html)
@@ -29,10 +30,10 @@
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
 * [Java并发](http://www.52javaee.com/articles/2019/09/17/1568717999008.html)
 * [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
-* [LeetCode刷题日记](http://www.52javaee.com/articles/2019/09/17/1568708659091.html)
 
 ### 热门
 
+* [LeetCode刷题日记](http://www.52javaee.com/articles/2019/09/17/1568708659091.html)
 * [Java数据类型](http://www.52javaee.com/articles/2019/08/23/1566572218385.html)
 * [世界，你好！](http://www.52javaee.com/hello-solo)
 * [《Java多线程编程核心技术》学习笔记（1）](http://www.52javaee.com/articles/2019/08/19/1566217808198.html)
