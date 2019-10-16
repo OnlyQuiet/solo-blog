@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.52javaee.com/my-github-repos)
+* [Spring IOC 容器源码分析 - 创建原始 bean 对象](http://www.52javaee.com/articles/2019/10/15/1571129324134.html)
 * [Spring IOC 容器源码分析 - 创建单例 bean 的过程](http://www.52javaee.com/articles/2019/10/14/1571038853863.html)
 * [Spring IOC 容器源码分析 - 获取单例 bean](http://www.52javaee.com/articles/2019/10/13/1570971970937.html)
 * [Spring IOC 容器源码分析系列文章导读](http://www.52javaee.com/articles/2019/10/11/1570805706621.html)
@@ -28,8 +30,6 @@
 * [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
 * [I/O多路复用](http://www.52javaee.com/articles/2019/09/25/1569341709884.html)
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
-* [Java并发](http://www.52javaee.com/articles/2019/09/17/1568717999008.html)
-* [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
 
 ### 热门
 
@@ -41,6 +41,8 @@
 * [悬浮显示所有的内容](http://www.52javaee.com/articles/2019/09/10/1568120839002.html)
 * [如何下载安装jenkins](http://www.52javaee.com/articles/2019/08/23/1566571035303.html)
 * [easyUI新增一行+删除一行+显示/隐藏元素+设置必填](http://www.52javaee.com/articles/2019/08/23/1566573809612.html)
+* [Java并发](http://www.52javaee.com/articles/2019/09/17/1568717999008.html)
+* [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
 
 
 
