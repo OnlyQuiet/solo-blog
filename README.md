@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring AOP 源码分析系列文章导读](http://www.52javaee.com/articles/2019/10/23/1571801906629.html)
 * [Spring IOC 容器源码分析 - 余下的初始化工作](http://www.52javaee.com/articles/2019/10/22/1571714695430.html)
 * [浅谈接口幂等性](http://www.52javaee.com/articles/2019/10/21/1571649464286.html)
 * [Spring IOC 容器源码分析 - 填充属性到 bean 原始对象](http://www.52javaee.com/articles/2019/10/21/1571645271010.html)
@@ -29,7 +30,6 @@
 * [Java集合](http://www.52javaee.com/articles/2019/09/27/1569566649371.html)
 * [Redis学习笔记（三）](http://www.52javaee.com/articles/2019/09/27/1569561483338.html)
 * [Redis学习笔记（二）](http://www.52javaee.com/articles/2019/09/26/1569512456578.html)
-* [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
 
 ### 热门
 
@@ -45,6 +45,7 @@
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
 * [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
 * [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
+* [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
 * [I/O多路复用](http://www.52javaee.com/articles/2019/09/25/1569341709884.html)
 * [Excel实用快捷键大全](http://www.52javaee.com/articles/2019/09/26/1569500683081.html)
 
