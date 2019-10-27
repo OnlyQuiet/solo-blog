@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring AOP 源码分析 - 筛选合适的通知器](http://www.52javaee.com/articles/2019/10/26/1572100276780.html)
 * [SQL总结（一）](http://www.52javaee.com/articles/2019/10/25/1571983794198.html)
 * [开发规范](http://www.52javaee.com/articles/2019/10/25/1571966934370.html)
 * [通用接口返回实体](http://www.52javaee.com/articles/2019/10/24/1571930971700.html)
@@ -29,7 +30,6 @@
 * [如何构建一棵二叉树](http://www.52javaee.com/articles/2019/10/05/1570290950891.html)
 * [Redis学习笔记（四）](http://www.52javaee.com/articles/2019/10/05/1570286015422.html)
 * [从抖音短视频看IntegerCache ](http://www.52javaee.com/articles/2019/10/05/1570249617418.html)
-* [ IDEA实用手册](http://www.52javaee.com/articles/2019/10/01/1569899806790.html)
 
 ### 热门
 
@@ -43,6 +43,7 @@
 * [easyUI新增一行+删除一行+显示/隐藏元素+设置必填](http://www.52javaee.com/articles/2019/08/23/1566573809612.html)
 * [Java并发](http://www.52javaee.com/articles/2019/09/17/1568717999008.html)
 * [Redis学习笔记（二）](http://www.52javaee.com/articles/2019/09/26/1569512456578.html)
+* [ IDEA实用手册](http://www.52javaee.com/articles/2019/10/01/1569899806790.html)
 * [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
 * [Java 的 I/O ](http://www.52javaee.com/articles/2019/09/27/1569572925458.html)
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
@@ -52,9 +53,10 @@
 * [I/O多路复用](http://www.52javaee.com/articles/2019/09/25/1569341709884.html)
 * [Redis学习笔记（三）](http://www.52javaee.com/articles/2019/09/27/1569561483338.html)
 * [通程通航业务梳理](http://www.52javaee.com/articles/2019/09/29/1569767687865.html)
+
+### 热议
+
 * [Excel实用快捷键大全](http://www.52javaee.com/articles/2019/09/26/1569500683081.html)
-
-
 
 ---
 
