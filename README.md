@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring AOP 源码分析 - 创建代理对象](http://www.52javaee.com/articles/2019/10/28/1572192941502.html)
 * [Spring AOP 源码分析 - 筛选合适的通知器](http://www.52javaee.com/articles/2019/10/26/1572100276780.html)
 * [SQL总结（一）](http://www.52javaee.com/articles/2019/10/25/1571983794198.html)
 * [开发规范](http://www.52javaee.com/articles/2019/10/25/1571966934370.html)
@@ -29,7 +30,6 @@
 * [Git基本概念与核心命令掌握](http://www.52javaee.com/articles/2019/10/10/1570639834010.html)
 * [如何构建一棵二叉树](http://www.52javaee.com/articles/2019/10/05/1570290950891.html)
 * [Redis学习笔记（四）](http://www.52javaee.com/articles/2019/10/05/1570286015422.html)
-* [从抖音短视频看IntegerCache ](http://www.52javaee.com/articles/2019/10/05/1570249617418.html)
 
 ### 热门
 
@@ -48,15 +48,16 @@
 * [Java 的 I/O ](http://www.52javaee.com/articles/2019/09/27/1569572925458.html)
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
 * [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
+* [从抖音短视频看IntegerCache ](http://www.52javaee.com/articles/2019/10/05/1570249617418.html)
 * [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
 * [Java集合](http://www.52javaee.com/articles/2019/09/27/1569566649371.html)
 * [I/O多路复用](http://www.52javaee.com/articles/2019/09/25/1569341709884.html)
 * [Redis学习笔记（三）](http://www.52javaee.com/articles/2019/09/27/1569561483338.html)
-* [通程通航业务梳理](http://www.52javaee.com/articles/2019/09/29/1569767687865.html)
 
 ### 热议
 
 * [Excel实用快捷键大全](http://www.52javaee.com/articles/2019/09/26/1569500683081.html)
+* [通程通航业务梳理](http://www.52javaee.com/articles/2019/09/29/1569767687865.html)
 
 ---
 
