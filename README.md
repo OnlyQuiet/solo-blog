@@ -50,9 +50,9 @@
 * [Redis学习笔记（四）](http://www.52javaee.com/articles/2019/10/05/1570286015422.html)
 * [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
 * [从抖音短视频看IntegerCache ](http://www.52javaee.com/articles/2019/10/05/1570249617418.html)
+* [I/O多路复用](http://www.52javaee.com/articles/2019/09/25/1569341709884.html)
 * [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
 * [Java集合](http://www.52javaee.com/articles/2019/09/27/1569566649371.html)
-* [I/O多路复用](http://www.52javaee.com/articles/2019/09/25/1569341709884.html)
 
 ### 热议
 
