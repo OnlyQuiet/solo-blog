@@ -51,8 +51,8 @@
 * [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
 * [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
-* [Git基本概念与核心命令掌握](http://www.52javaee.com/articles/2019/10/10/1570639834010.html)
 * [Java集合](http://www.52javaee.com/articles/2019/09/27/1569566649371.html)
+* [Git基本概念与核心命令掌握](http://www.52javaee.com/articles/2019/10/10/1570639834010.html)
 
 ### 热议
 
