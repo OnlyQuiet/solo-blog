@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Spring MVC 原理探秘 - 容器的创建过程](http://www.52javaee.com/articles/2019/11/14/1573699061251.html)
 * [sql总结（三）](http://www.52javaee.com/articles/2019/11/05/1572959977499.html)
 * [Spring MVC 原理探秘 - 一个请求的旅行过程](http://www.52javaee.com/articles/2019/11/05/1572955004223.html)
 * [Spring AOP 源码分析 - 拦截器链的执行过程](http://www.52javaee.com/articles/2019/11/01/1572586941208.html)
@@ -29,7 +30,6 @@
 * [我在 GitHub 上的开源项目](http://www.52javaee.com/my-github-repos)
 * [Spring IOC 容器源码分析 - 创建原始 bean 对象](http://www.52javaee.com/articles/2019/10/15/1571129324134.html)
 * [Spring IOC 容器源码分析 - 创建单例 bean 的过程](http://www.52javaee.com/articles/2019/10/14/1571038853863.html)
-* [Spring IOC 容器源码分析 - 获取单例 bean](http://www.52javaee.com/articles/2019/10/13/1570971970937.html)
 
 ### 热门
 
@@ -43,6 +43,7 @@
 * [easyUI新增一行+删除一行+显示/隐藏元素+设置必填](http://www.52javaee.com/articles/2019/08/23/1566573809612.html)
 * [ IDEA实用手册](http://www.52javaee.com/articles/2019/10/01/1569899806790.html)
 * [Redis学习笔记（二）](http://www.52javaee.com/articles/2019/09/26/1569512456578.html)
+* [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
 * [Redis学习笔记（四）](http://www.52javaee.com/articles/2019/10/05/1570286015422.html)
 * [Spring IOC 容器源码分析系列文章导读](http://www.52javaee.com/articles/2019/10/11/1570805706621.html)
 * [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
@@ -50,7 +51,6 @@
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
 * [Java 的 I/O ](http://www.52javaee.com/articles/2019/09/27/1569572925458.html)
 * [从抖音短视频看IntegerCache ](http://www.52javaee.com/articles/2019/10/05/1570249617418.html)
-* [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
 * [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
 * [Java集合](http://www.52javaee.com/articles/2019/09/27/1569566649371.html)
 
@@ -62,6 +62,7 @@
 * [通程通航业务梳理](http://www.52javaee.com/articles/2019/09/29/1569767687865.html)
 * [如何构建一棵二叉树](http://www.52javaee.com/articles/2019/10/05/1570290950891.html)
 * [Git基本概念与核心命令掌握](http://www.52javaee.com/articles/2019/10/10/1570639834010.html)
+* [Spring IOC 容器源码分析 - 获取单例 bean](http://www.52javaee.com/articles/2019/10/13/1570971970937.html)
 
 ---
 
