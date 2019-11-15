@@ -52,17 +52,17 @@
 * [Java 的 I/O ](http://www.52javaee.com/articles/2019/09/27/1569572925458.html)
 * [从抖音短视频看IntegerCache ](http://www.52javaee.com/articles/2019/10/05/1570249617418.html)
 * [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
-* [Java集合](http://www.52javaee.com/articles/2019/09/27/1569566649371.html)
+* [Spring IOC 容器源码分析 - 获取单例 bean](http://www.52javaee.com/articles/2019/10/13/1570971970937.html)
 
 ### 热议
 
 * [I/O多路复用](http://www.52javaee.com/articles/2019/09/25/1569341709884.html)
 * [Excel实用快捷键大全](http://www.52javaee.com/articles/2019/09/26/1569500683081.html)
 * [Redis学习笔记（三）](http://www.52javaee.com/articles/2019/09/27/1569561483338.html)
+* [Java集合](http://www.52javaee.com/articles/2019/09/27/1569566649371.html)
 * [通程通航业务梳理](http://www.52javaee.com/articles/2019/09/29/1569767687865.html)
 * [如何构建一棵二叉树](http://www.52javaee.com/articles/2019/10/05/1570290950891.html)
 * [Git基本概念与核心命令掌握](http://www.52javaee.com/articles/2019/10/10/1570639834010.html)
-* [Spring IOC 容器源码分析 - 获取单例 bean](http://www.52javaee.com/articles/2019/10/13/1570971970937.html)
 
 ---
 
