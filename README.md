@@ -43,16 +43,16 @@
 * [easyUI新增一行+删除一行+显示/隐藏元素+设置必填](http://www.52javaee.com/articles/2019/08/23/1566573809612.html)
 * [Redis学习笔记（二）](http://www.52javaee.com/articles/2019/09/26/1569512456578.html)
 * [ IDEA实用手册](http://www.52javaee.com/articles/2019/10/01/1569899806790.html)
+* [Java并发](http://www.52javaee.com/articles/2019/09/17/1568717999008.html)
 * [Spring IOC 容器源码分析系列文章导读](http://www.52javaee.com/articles/2019/10/11/1570805706621.html)
 * [Java基础](http://www.52javaee.com/articles/2019/09/17/1568716323968.html)
 * [对List进行排序](http://www.52javaee.com/articles/2019/09/26/1569499739338.html)
 * [Redis学习笔记（四）](http://www.52javaee.com/articles/2019/10/05/1570286015422.html)
-* [Java并发](http://www.52javaee.com/articles/2019/09/17/1568717999008.html)
 * [Redis学习笔记（一）](http://www.52javaee.com/articles/2019/09/24/1569339087103.html)
 * [Java 的 I/O ](http://www.52javaee.com/articles/2019/09/27/1569572925458.html)
 * [从抖音短视频看IntegerCache ](http://www.52javaee.com/articles/2019/10/05/1570249617418.html)
-* [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
 * [Spring IOC 容器源码分析 - 获取单例 bean](http://www.52javaee.com/articles/2019/10/13/1570971970937.html)
+* [Java虚拟机](http://www.52javaee.com/articles/2019/09/26/1569500984716.html)
 
 ### 热议
 
